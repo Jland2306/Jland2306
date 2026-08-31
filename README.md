@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Jordan 👋
 
-<!--
-**Jland2306/Jland2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Design & Development student at **RIT** (B.S. '28). I build games and tools with a focus on UI/UX and intuitive user experiences.
 
-Here are some ideas to get you started:
+### 🔭 Currently
+- Working on a solo isometic drift project
+- **Open to co-op / internship opportunities**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Languages
+`C#` · `C++` · `Java` · `Python` · `JavaScript` · `HTML/CSS`
+
+### 📫 Reach me
+- LinkedIn: [your-link-here]([https://www.linkedin.com/in/jordanlandversicht])
+- Email: JLandversicht23@gmail.com or Jel2360@rit.edu
+- Portfolio / itch.io: [your-link-here](#)

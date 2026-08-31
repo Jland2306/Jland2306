@@ -10,6 +10,6 @@ Game Design & Development student at **RIT** (B.S. '28). I build games and tools
 `C#` · `C++` · `Java` · `Python` · `JavaScript` · `HTML/CSS`
 
 ### 📫 Reach me
-- LinkedIn: [your-link-here]([https://www.linkedin.com/in/jordanlandversicht])
+- LinkedIn: [https://www.linkedin.com/in/jordanlandversicht]
 - Email: JLandversicht23@gmail.com or Jel2360@rit.edu
 - Portfolio / itch.io: [your-link-here](#)

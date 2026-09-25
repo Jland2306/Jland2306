@@ -3,7 +3,7 @@
 Game Design & Development student at **RIT** (B.S. '28). I build games and tools with a focus on UI/UX and intuitive user experiences.
 
 ### 🔭 Currently
-- Solo-developing a top-down game focusing drifting
+- Solo-developing **Project D**, a top-down drifting game
 - Building **Fortunes Tower**, a game developed with a team
 - Coursework at RIT: Game Design & Development
 - **Open to co-op / internship opportunities**
